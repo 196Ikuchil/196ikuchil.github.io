@@ -1,0 +1,75 @@
+{
+  "sidebar": {
+    "scrapbook":{
+      "title": "Scrapbook"
+    },
+    "chordsearch": {
+      "title": "Finder"
+    },
+    "keep":{
+      "title": "Keep"
+    }
+  },
+  "toppage": {
+    "hello": "Hi, welcome back",
+    "sitename": "196 Guitar Chord Finder",
+    "chordsearch": {
+      "title": "Finder",
+      "description": "Search for guitar chords and their constituent notes, and keys to hold down."
+    },
+    "keep": {
+      "title": "Keep",
+      "description": "List the codes added to the keep in the code search."
+    },
+    "scrapbook": {
+      "title": "SCRAPBOOK",
+      "description": "Displays a table of fifths and diatonic chords. Check more basic chords."
+    },
+    "warning": "[Warning]Keep and other information will be reset when you reload the browser.",
+    "contactus": {
+      "to": "https://github.com/196Ikuchil/196GuitarChordFinder/issues",
+      "description": "Report bugs, mistakes, etc."
+    },
+    "policy": "privacy policy"
+  },
+  "keep": {
+    "title": "Keep",
+    "empty": {
+      "button": "Jump to Finder",
+      "msg": "The code has not been registered in Keep yet. Please register it first."
+    }
+  },
+  "chordsearch": {
+    "title": "Finder",
+    "tips": {
+      "keepbutton": "Temporarily save the currently displayed code to Keep."
+    },
+    "button": {
+      "tokeep": "Add to keep"
+    }
+  },
+  "scrapbook": {
+    "title": "SCRAPBOOK",
+    "remove_all": "Clear all",
+    "button": {
+      "add": "Add",
+      "tochordsearch": "Search in Finder"
+    },
+    "tips": {
+      "addbutton": "Insert panel first"
+    },
+    "select": {
+      "diatonic": "diatonic chord chart",
+      "c5th": "circle of 5th",
+      "chord": "chord mini finder"
+    },
+    "rolls": {
+      "tonic": "Tonic",
+      "dominant": "Dominant",
+      "subdominant": "Sub-dominant",
+      "tonicm": "Tonic minor",
+      "dominantm": "Dominant minor",
+      "subdominantm": "Sub-dominant minor"
+    }
+  }
+}
